@@ -1,0 +1,77 @@
+#m{
+	height: 5000px;
+	background-color: pink;
+}
+#a{
+	height: 800px;
+	background-image: url("image/main.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+#a1{
+	padding-top: 160px;
+	padding-left: 200px;
+	padding-right: 200px;
+	font-size: 60px;
+	color: grey;
+}
+#bu1{
+	height: 30px;
+	background-color: CadetBlue;
+	color: white;
+}
+#bu2{
+	height: 30px;
+}
+#a2{
+	color: CadetBlue;
+	width: 80%;
+	padding-left: 80px;
+	position: absolute;
+	top:750px;
+	left: 110px;
+}
+.col-md-4{
+	height: 100%;
+	width: 100%;
+}
+.icon{
+	padding-right: 30px;
+	font-size: 40px;
+	float: left;
+}
+.text{
+	float: left;
+	color:grey;
+}
+#b{
+	padding-top: 100px;
+	padding-right: 80px;
+	padding-left: 80px;
+	background-color: white;
+}
+#ch{
+	padding-top: 50px;
+}
+#cp{
+	padding-left: 300px;
+	padding-right: 300px;
+}
+#im{
+	float: left;
+	height: 400px;
+	width: 300px;
+	margin-top: 50px;
+	margin-left: 100px;
+	background-image: url("image/man.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	box-shadow: 15px 15px grey;
+	border-radius: 3px;
+
+}
+#cb{
+	float: left;
+	padding: 50px;
+}
